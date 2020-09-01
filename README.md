@@ -16,6 +16,6 @@ For the resolution of the project I have thought of two different hypothesis:
    1) What human body part do sharks think is the most tasty?
    (or which one do they actually attack the most?).Spoiler alert: IT'S THE LEGS!
    
-   2)An easy one: top 10 countries in deaths from shark attack.
+   2) An easy one: top 10 countries in deaths from shark attack.
    
 Let's do it!
